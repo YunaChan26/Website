@@ -1,0 +1,16 @@
+{
+  "name": "YunaChan",
+  "contact": {
+    "github": "https://github.com/YunaChan26",
+    "discord": "",
+    "email": ""
+  },
+  "categories": [
+    {
+      "key": "annonce",
+      "label": "Annonces"
+    }
+  ],
+  "projects": [],
+  "news": []
+}
